@@ -35,6 +35,7 @@ namespace CombatScoutMod.SkillStates
         protected NetworkSoundEventIndex impactSound;
 
         public float duration;
+        private float earlyExitTime;
         private bool hasFired;
         private float hitPauseTimer;
         private OverlapAttack attack;

@@ -12,7 +12,7 @@ namespace CombatScoutMod.Modules
 
         internal const float swordDamageCoefficient = 6f;
 
-        internal const float gunDamageCoefficient = 0.6f;
+        internal const float gunDamageCoefficient = 0.8f;
 
         internal const float bombDamageCoefficient = 16f;
     }
